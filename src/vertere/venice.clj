@@ -1,7 +1,7 @@
 (ns vertere.venice
   (:require [vertere.mess :as vt] :reload))
 
-(use '[cemerick.pomegranate :only (add-dependencies)])
+;(use '[cemerick.pomegranate :only (add-dependencies)])
 
 ;(add-dependencies :coordinates '[[org.clojure/tools.namespace "0.2.8"]]
 ;                  :repositories (merge cemerick.pomegranate.aether/maven-central

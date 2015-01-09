@@ -1,6 +1,6 @@
 (ns vertere.mess)
 
-(use '[cemerick.pomegranate :only (add-dependencies)])
+;(use '[cemerick.pomegranate :only (add-dependencies)])
 
 ;; (add-dependencies :coordinates '[[org.clojure/math.combinatorics "0.0.8"]]
 ;;                   :repositories (merge cemerick.pomegranate.aether/maven-central
