@@ -1,10 +1,14 @@
-# scrapeplay
+# vertere
 
-A Clojure library designed to ... well, that part is up to you.
+A system in clojure for working with poetry and verse drama. Digital humanities stuff. 
 
 ## Usage
 
-FIXME
+Totally unusable at this point. 
+
+Well actually I can use it but I haven't even... I mean I'm just storing it here while I play around with it. I haven't even *begun* to think about how someone else would use it. I haven't even cleaned up the dependencies so that other people can use it without trouble. 
+
+I should probably do that. 
 
 ## License
 
